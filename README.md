@@ -1,2 +1,2 @@
-#  Lab-backend-vue
+#  Lab-backend-fastapi
  
